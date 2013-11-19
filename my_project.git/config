@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = /Volumes/Niby/Projects/08001-Nibydesgingroup/0301-Web_Design/chickens/.git
